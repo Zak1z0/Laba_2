@@ -1,0 +1,7 @@
+C:\Users\sekin\source\repos\Lab_2\Individ_1\bin\Debug\Individ_1.exe.config
+C:\Users\sekin\source\repos\Lab_2\Individ_1\bin\Debug\Individ_1.exe
+C:\Users\sekin\source\repos\Lab_2\Individ_1\bin\Debug\Individ_1.pdb
+C:\Users\sekin\source\repos\Lab_2\Individ_1\obj\Debug\Individ_1.csproj.AssemblyReference.cache
+C:\Users\sekin\source\repos\Lab_2\Individ_1\obj\Debug\Individ_1.csproj.CoreCompileInputs.cache
+C:\Users\sekin\source\repos\Lab_2\Individ_1\obj\Debug\Individ_1.exe
+C:\Users\sekin\source\repos\Lab_2\Individ_1\obj\Debug\Individ_1.pdb

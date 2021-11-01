@@ -1,0 +1,6 @@
+C:\Users\sekin\source\repos\Lab_2\6\bin\Debug\6.exe.config
+C:\Users\sekin\source\repos\Lab_2\6\bin\Debug\6.exe
+C:\Users\sekin\source\repos\Lab_2\6\bin\Debug\6.pdb
+C:\Users\sekin\source\repos\Lab_2\6\obj\Debug\6.csproj.CoreCompileInputs.cache
+C:\Users\sekin\source\repos\Lab_2\6\obj\Debug\6.exe
+C:\Users\sekin\source\repos\Lab_2\6\obj\Debug\6.pdb
